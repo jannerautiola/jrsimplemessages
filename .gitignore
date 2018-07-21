@@ -328,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/SimpleMessagesSignalRFunction/local.settings.json
+/SimpleMessagesWebApi/ApiKeys.json
+/SimpleMessagesSignalR/ApiKeys.json
